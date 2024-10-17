@@ -1,0 +1,21 @@
+{
+    "name": "sekarinotan/ebay",
+    "description": "testing stuff",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sekarinotan\\Ebay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "awan gemilang",
+            "email": "fredericus.awan@sirclo.com"
+        }
+    ]
+}
